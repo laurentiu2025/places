@@ -1,0 +1,55 @@
+"places.title" = "Places";
+"places.loading" = "Loading places…";
+"places.search.prompt" = "Search locations";
+"places.search.accessibility_label" = "Search Wikipedia";
+"places.search.accessibility_hint" = "Opens place search";
+"places.empty.title" = "No places found";
+"places.empty.message" = "There are no locations to show.";
+"places.empty.search_message" = "Try a different search.";
+"places.error.no_locations" = "No locations were returned.";
+"places.error.load_failed" = "Couldn't load locations. Check your connection and try again.";
+"common.try_again" = "Try again";
+"common.cancel" = "Cancel";
+"common.error.title" = "Something went wrong";
+"custom_location.title" = "Search Wikipedia";
+"custom_location.search.placeholder" = "Search for a city or place";
+"custom_location.search.accessibility_label" = "Location name";
+"custom_location.searching" = "Searching Wikipedia…";
+"custom_location.suggestions.title" = "Suggestions";
+"custom_location.search.error" = "Search is unavailable. You can still open the typed location.";
+"custom_location.search.empty" = "No matching places found. You can still open the typed location.";
+"custom_location.search.hint" = "Type at least two characters to find places.";
+"custom_location.open_typed_location" = "Open in Wikipedia Clone App";
+
+"custom_location.mode.label" = "Location entry mode";
+"custom_location.mode.place" = "Place name";
+"custom_location.mode.coordinates" = "Coordinates";
+"custom_location.coordinates.latitude" = "Latitude";
+"custom_location.coordinates.longitude" = "Longitude";
+"custom_location.coordinates.open_map" = "Open in Wikipedia Clone App";
+"custom_location.coordinates.invalid" = "Enter a valid latitude (-90 to 90) and longitude (-180 to 180).";
+
+"custom_location.mode.map" = "Map";
+"custom_location.map.accessibility_label" = "Pan the map to position the pin at the desired location.";
+"custom_location.map.open_wikipedia_clone" = "Open in Wikipedia Clone App";
+
+"places.location.unnamed" = "Unnamed place";
+"places.location.accessibility_hint" = "Opens the Wikipedia article for this place.";
+"custom_location.search.accessibility_hint" = "Enter a city or place name, then choose a suggestion or open the typed location.";
+"custom_location.suggestion.accessibility_hint" = "Select this suggestion to open the location in Wikipedia Clone.";
+"custom_location.coordinates.latitude_hint" = "Enter a latitude between minus 90 and 90 degrees.";
+"custom_location.coordinates.longitude_hint" = "Enter a longitude between minus 180 and 180 degrees.";
+"custom_location.coordinates.open_map_hint" = "Opens Wikipedia Clone with the entered coordinates.";
+"custom_location.map.accessibility_hint" = "Move the map or use the directional buttons to adjust the selected coordinates. You can also enter coordinates in the Coordinates mode.";
+"custom_location.map.selected_coordinates" = "Selected coordinates";
+"custom_location.map.move_north" = "Move map center north";
+"custom_location.map.move_south" = "Move map center south";
+"custom_location.map.move_east" = "Move map center east";
+"custom_location.map.move_west" = "Move map center west";
+"custom_location.map.open_wikipedia_clone_hint" = "Opens Wikipedia Clone using the selected map coordinates.";
+
+
+"custom_location.search.resolving_place" = "Finding coordinates for this place…";
+"custom_location.search.place_not_found" = "We couldn’t find coordinates for this place. Check the name and try again.";
+"custom_location.search.retry" = "Try again";
+"custom_location.search.open_typed_location_hint" = "Find this place and open Wikipedia Clone at its coordinates.";

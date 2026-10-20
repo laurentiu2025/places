@@ -1,0 +1,54 @@
+"places.title" = "Plaatsen";
+"places.loading" = "Plaatsen laden…";
+"places.search.prompt" = "Locaties zoeken";
+"places.search.accessibility_label" = "Wikipedia doorzoeken";
+"places.search.accessibility_hint" = "Opent het zoeken naar plaatsen";
+"places.empty.title" = "Geen plaatsen gevonden";
+"places.empty.message" = "Er zijn geen locaties om weer te geven.";
+"places.empty.search_message" = "Probeer een andere zoekopdracht.";
+"places.error.no_locations" = "Er zijn geen locaties teruggegeven.";
+"places.error.load_failed" = "De locaties konden niet worden geladen. Controleer je internetverbinding en probeer het opnieuw.";
+"common.try_again" = "Opnieuw proberen";
+"common.cancel" = "Annuleren";
+"common.error.title" = "Er is iets misgegaan";
+"custom_location.title" = "Wikipedia doorzoeken";
+"custom_location.search.placeholder" = "Zoek een stad of plaats";
+"custom_location.search.accessibility_label" = "Locatienaam";
+"custom_location.searching" = "Wikipedia doorzoeken…";
+"custom_location.suggestions.title" = "Suggesties";
+"custom_location.search.error" = "Zoeken is niet beschikbaar. Je kunt de ingevoerde locatie nog steeds openen.";
+"custom_location.search.empty" = "Geen overeenkomende plaatsen gevonden. Je kunt de ingevoerde locatie nog steeds openen.";
+"custom_location.search.hint" = "Voer minstens twee tekens in om plaatsen te vinden.";
+"custom_location.open_typed_location" = "Openen in de Wikipedia Clone-app";
+
+"custom_location.mode.label" = "Locatie-invoermethode";
+"custom_location.mode.place" = "Plaatsnaam";
+"custom_location.mode.coordinates" = "Coördinaten";
+"custom_location.coordinates.latitude" = "Breedtegraad";
+"custom_location.coordinates.longitude" = "Lengtegraad";
+"custom_location.coordinates.open_map" = "Openen in de Wikipedia Clone-app";
+"custom_location.coordinates.invalid" = "Voer een geldige breedtegraad (-90 tot 90) en lengtegraad (-180 tot 180) in.";
+
+"custom_location.mode.map" = "Kaart";
+"custom_location.map.accessibility_label" = "Versleep de kaart om de pin op de gewenste locatie te plaatsen.";
+"custom_location.map.open_wikipedia_clone" = "Openen in de Wikipedia Clone-app";
+
+"places.location.unnamed" = "Naamloze plaats";
+"places.location.accessibility_hint" = "Opent het Wikipedia-artikel voor deze plaats.";
+"custom_location.search.accessibility_hint" = "Voer een plaats- of stadsnaam in en kies een suggestie of open de ingevoerde locatie.";
+"custom_location.suggestion.accessibility_hint" = "Selecteer deze suggestie om de locatie in de Wikipedia Clone-app te openen.";
+"custom_location.coordinates.latitude_hint" = "Voer een breedtegraad tussen -90 en 90 graden in.";
+"custom_location.coordinates.longitude_hint" = "Voer een lengtegraad tussen -180 en 180 graden in.";
+"custom_location.coordinates.open_map_hint" = "Opent de Wikipedia Clone-app met de ingevoerde coördinaten.";
+"custom_location.map.accessibility_hint" = "Verplaats de kaart of gebruik de richtingsknoppen om de geselecteerde coördinaten aan te passen. Je kunt ook coördinaten invoeren in de modus Coördinaten.";
+"custom_location.map.selected_coordinates" = "Geselecteerde coördinaten";
+"custom_location.map.move_north" = "Kaartcentrum naar het noorden verplaatsen";
+"custom_location.map.move_south" = "Kaartcentrum naar het zuiden verplaatsen";
+"custom_location.map.move_east" = "Kaartcentrum naar het oosten verplaatsen";
+"custom_location.map.move_west" = "Kaartcentrum naar het westen verplaatsen";
+"custom_location.map.open_wikipedia_clone_hint" = "Opent de Wikipedia Clone-app met de geselecteerde kaartcoördinaten.";
+
+"custom_location.search.resolving_place" = "Coördinaten van deze plaats zoeken…";
+"custom_location.search.place_not_found" = "We konden geen coördinaten voor deze plaats vinden. Controleer de naam en probeer het opnieuw.";
+"custom_location.search.retry" = "Opnieuw proberen";
+"custom_location.search.open_typed_location_hint" = "Zoek deze plaats en open de Wikipedia Clone-app op basis van de coördinaten.";
